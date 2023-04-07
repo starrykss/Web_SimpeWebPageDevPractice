@@ -1,5 +1,5 @@
 # A Simple Web Page
-[2023-04-07] A Simple Web Page about Jeju Island.
+[2023-04-07] A Simple Web Page of Jeju Island Travel Agency
 
 ### 웹 페이지 체험해보기
 [🌐 바로가기](https://starrykss.github.io/Practices/SimpleWebPage/index.html)
