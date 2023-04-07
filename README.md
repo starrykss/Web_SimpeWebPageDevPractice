@@ -1,4 +1,4 @@
-# A Web Simple Web Page
+# A Simple Web Page
 [2023-04-07] A Simple Web Page about Jeju Island.
 
 ### 설명
