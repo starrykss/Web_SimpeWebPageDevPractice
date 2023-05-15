@@ -2,7 +2,7 @@
 [2023-04-07] A Simple Web Page of Jeju Island Travel Agency
 
 ### 웹 페이지 체험해보기
-[📎 바로가기](https://starrykss.github.io/Practices/SimpleWebPage/index.html) 
+[📎 바로가기](https://starrykss.github.io/Practices/SimpleWebPage/index.html)
 
 ### 설명
 - HTML5, CSS3, JavaScript를 복습하면서 간단하게 만들어본 제주도 여행사 홈페이지
